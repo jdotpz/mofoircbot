@@ -46,7 +46,6 @@ client.addListener('message#mofo-devops', function (from, message) {
 
 var sendMessage = function(ircopts_channels, msgtosend, callback) {
   var ircopts_channels = env.get('channels');
-  console.log('ircopts_channels set to' + ircopts_channels)
   client.say(ircopts_channels, msgtosend);
 }
 
