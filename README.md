@@ -1,4 +1,4 @@
-mofoircbot
-==========
+mofobot
+=======
 
-An ircbot for Mozilla Foundation
+A bot that hangs out in MoFo's channels, laying down info on any and all.

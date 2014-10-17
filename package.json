@@ -1,0 +1,43 @@
+{
+  "name": "mofobot",
+  "version": "0.0.0",
+  "author": "JP Schneider jdotpzs",
+  "description": "A bot that hangs out in MoFo's channels, laying down info on any and all. ",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdotpz/mofobot.git"
+  },
+  "keywords": [
+    "mofobot",
+    "irc",
+    "hubot",
+    "sqs"
+  ],
+  "homepage": "http://github.com/jdotpz/mofobot",
+  "contributors": [
+    {
+      "name": "JP Schneider",
+      "email": "jp@mozillafoundation.org"
+    }
+  ],
+  "dependencies": {
+    "aws-sqs": "~0.0.6",
+    "habitat": "~2.0.0",
+    "irc": "0.3.7"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/jdotpz/mofobot/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jdotpz/mofobot/raw/master/LICENSE"
+    }
+  ],
+  "analyze": false
+}
